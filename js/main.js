@@ -12,6 +12,8 @@ const prevbtn = $('.btn-prev')
 const nextbtn = $('.btn-next')
 const randomSong = $('.btn-random')
 const app = {
+
+    
     currentIndexSong: 0,
     isPlaying: false,
     isRandom: false,
